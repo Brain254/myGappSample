@@ -22,5 +22,6 @@
    		</tr>
    	</tbody>
    </table>
+   <a href="login.php">Click to Login</a>
 </body>
 </html>
