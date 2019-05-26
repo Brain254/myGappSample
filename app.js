@@ -1,3 +1,3 @@
 $(function(){
-	alert('Fisrt Git App');
+	console.log('Fisrt Git App');
 })
